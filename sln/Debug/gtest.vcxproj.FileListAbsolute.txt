@@ -1,3 +1,0 @@
-C:\Users\Anntuu\Desktop\unnwork\mp2-lab2-matrix\sln\Debug\gtest.lib
-C:\Users\Anntuu\Desktop\unnwork\TQueue2\sln\Debug\gtest.lib
-C:\Users\Anntuu\Desktop\unnwork\TMultiStack\sln\Debug\gtest.lib
